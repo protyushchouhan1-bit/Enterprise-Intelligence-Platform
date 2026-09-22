@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/.env
+__pycache__/
+*.db
+*.pkl
+data/raw/
+data/bronze/
+data/silver/
+data/gold/
